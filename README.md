@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @florentdesmarets
-- 👀 I’m interested in react and WebDesign
+- 👀 I’m interested in ReactJS and WebDesign
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on Template project
 - 📫 How to reach me : https://florentd.com
